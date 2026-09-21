@@ -32,6 +32,8 @@ logs/
 # =========================
 # Environment / Secrets
 # =========================
+config/application-local.properties
+
 .env
 .env.*
 !.env.example
